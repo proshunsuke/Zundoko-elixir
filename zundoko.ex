@@ -1,6 +1,6 @@
 defmodule Zundoko do
 	def kiyoshi(['ズン', 'ズン', 'ズン', 'ズン', 'ドコ']) do
-		IO.puts 'キヨシ!'
+		IO.puts 'キ・ヨ・シ!'
 	end
 
 	def kiyoshi(list) do
